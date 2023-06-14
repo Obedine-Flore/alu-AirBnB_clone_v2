@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """db_storage.py use database"""
 
 import os
